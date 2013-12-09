@@ -1,7 +1,6 @@
 
 ## Hackership Batch-0
- Run at:  Betahaus, Berlin
- Dates:   Nov 4th - Dec 19th 2013
+Run at Betahaus, Berlin, Nov 4th - Dec 19th 2013
 
 ### Learners
 
