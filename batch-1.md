@@ -23,8 +23,11 @@ Run at Zalando Tech, Berlin, July 7th - Sept 25th 2014
 
  * [Alexander Kops](http://discourse.opentechschool.org/users/ako/)
  * [Amélie Anglade](http://discourse.opentechschool.org/users/amelie/)
+ * [Anouk Ruhaak](http://discourse.opentechschool.org/users/anoukruhaak/)
+ * [Benjamin Kampmann](http://discourse.opentechschool.org/users/ben/)
  * [Björn Diekert](http://discourse.opentechschool.org/users/BDiekert/)
  * [Carl Crowder](http://discourse.opentechschool.org/users/carlio/)
+ * [Charlotte Hayne](http://discourse.opentechschool.org/users/charlotte/)
  * [Gregor Fabritius](http://discourse.opentechschool.org/users/grefab/)
  * [Haiko Schol](http://discourse.opentechschool.org/users/haiko/)
  * [Kolja Wilcke](http://discourse.opentechschool.org/users/Kolja/)
